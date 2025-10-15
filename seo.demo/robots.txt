@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 Disallow: /admin/
-Sitemap: https://你的Vercel域名/sitemap.xml
+
+Sitemap: https://seo-demo-pi.vercel.app/sitemap.xml

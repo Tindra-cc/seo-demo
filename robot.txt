@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# 允许搜索引擎抓取所有内容
+# 禁止抓取的内容可以在这里添加
+# Disallow: /private/
+
+# 站点地图位置
+Sitemap: https://seo-demo-pi.vercel.app/sitemap.xml

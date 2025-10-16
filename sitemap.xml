@@ -7,14 +7,4 @@
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-  
-  <!-- 可以添加其他页面 -->
-  <!-- 
-  <url>
-    <loc>https://[你的Vercel域名]/register</loc>
-    <lastmod>2023-11-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  -->
 </urlset>
